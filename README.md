@@ -1,3 +1,3 @@
-# Network Tools
+# Usage
 
-Suite of tools for building, fitting rules, and simulating networks.
+See `bbayes_sample.ipynb` for usage with the provided test data.
